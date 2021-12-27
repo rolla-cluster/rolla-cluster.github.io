@@ -1,5 +1,14 @@
 # Rolla's Technology Portfolio
 
+## Links
+- [LinkedIn](https://www.linkedin.com/in/rollacampbellcluster/)
+- [Credly](https://www.credly.com/users/rolla-campbell)
+- [HackerRank](https://www.hackerrank.com/rwillcampbell)
+- [HackTheBox](https://app.hackthebox.com/profile/432926)
+- [LeetCode](https://leetcode.com/tangled-beep/)
+- [TryHackMe](https://tryhackme.com/p/tangled) 
+- [HackerOne](https://hackerone.com/tangled_)
+
 ## Education
 Bachelors of Science, Cybersecurity & Information Assurance - Western Governors University (graduated 2021)
 
@@ -12,6 +21,8 @@ Bachelors of Science, Cybersecurity & Information Assurance - Western Governors 
 - CompTIA Security+
 - CompTIA Pentest+
 - CompTIA CySA+ (Cybersecurity Analyst)
+- Comptia Stackables (IT Operations Specialist, Secure Infrastructure Specialist, Network Security Professional, 
+Security Analytics Professional, Network Vulnerability Professional)
 - (ISC)2 SSCP (Systems Security Certified Practitioner)
 - EC-Council (ECES) Certified Encryption Specialist
 - Scrum Alliance SMC (certified scrum master)
@@ -22,9 +33,10 @@ Bachelors of Science, Cybersecurity & Information Assurance - Western Governors 
 
 ## Experience
 - Associate Software Engineer, Business Application (iZotope)
-- HackTheBox x Auth0 CTF - top 10% finalist
 - HackTheBox Labs - GlobalRanking TOP <600
 - TryHackMe - Top 10%
+- HackTheBox x Auth0 CTF - top 10% finalist
+- HackTheBox XMAS Event - top 10% finalist
 - Homelab projects - CI/CD, Kali Linux, Parrot OS, Virtualization, Plex Server, SIEM (Splunk)
 
 ---
@@ -35,5 +47,3 @@ Bachelors of Science, Cybersecurity & Information Assurance - Western Governors 
 - Software:  Atlassian, Salesforce, Zendesk, Centercode, Microsoft Office, Jenkins, Artifactory, AWS, Git, Cryptography (PKI), RDBMS, Kubernetes, Docker
 - Security Tools: MetaSploit, CloudWatch, Splunk, pfsense, EnCase, FTK, IPS/IDS, SIEM
 - Other: Vulnerability Assessment, Pentesting, Compliance & Auditing (GDPR, SOX, GLBA, PCI/DSS), Serverless and Microservice Development, red teaming and API development
-[Link](url) and ![Image](src)
-
