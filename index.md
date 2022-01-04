@@ -1,5 +1,7 @@
 # Rolla's Technology Portfolio
 
+## Current Focus: Learning all industry best-practice standards, preparing for CISSP and pre-Masters Degree learning
+
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/rollacampbellcluster/) LinkedIn Profile Page
 - [Credly](https://www.credly.com/users/rolla-campbell) Credly Certification Profile
