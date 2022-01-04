@@ -1,13 +1,13 @@
 # Rolla's Technology Portfolio
 
 ## Links
-- [LinkedIn](https://www.linkedin.com/in/rollacampbellcluster/)
-- [Credly](https://www.credly.com/users/rolla-campbell)
-- [HackerRank](https://www.hackerrank.com/rwillcampbell)
-- [HackTheBox](https://app.hackthebox.com/profile/432926)
-- [LeetCode](https://leetcode.com/tangled-beep/)
-- [TryHackMe](https://tryhackme.com/p/tangled) 
-- [HackerOne](https://hackerone.com/tangled_)
+- [LinkedIn](https://www.linkedin.com/in/rollacampbellcluster/) LinkedIn Profile Page
+- [Credly](https://www.credly.com/users/rolla-campbell) Credly Certification Profile
+- [HackerRank](https://www.hackerrank.com/rwillcampbell) HackerRank Profile
+- [HackTheBox](https://app.hackthebox.com/profile/432926) HackTheBox Profile
+- [LeetCode](https://leetcode.com/tangled-beep/) LeetCode Profile
+- [TryHackMe](https://tryhackme.com/p/tangled) TryHackMe Profile
+- [HackerOne](https://hackerone.com/tangled_) HackerOne Profile
 
 ## Education
 Bachelors of Science, Cybersecurity & Information Assurance - Western Governors University (graduated 2021)
@@ -43,7 +43,7 @@ Security Analytics Professional, Network Vulnerability Professional)
 
 ## Skills
 - Systems: macOS, Windows (7- 10, Server), Linux (RHEL, Ubuntu, Arch, Kali, Parrot, CentOS)
-- Languages:  Python, C, Shell (bash, ksh, powershell, CMD), Javascript, C# (and .NET), SQL, Angular
+- Languages:  Python, C, Shell (bash, ksh, powershell, CMD), Golang, Javascript, C# (and .NET), SQL
 - Software:  Atlassian, Salesforce, Zendesk, Centercode, Microsoft Office, Jenkins, Artifactory, AWS, Git, Cryptography (PKI), RDBMS, Kubernetes, Docker
 - Security Tools: MetaSploit, CloudWatch, Splunk, pfsense, EnCase, FTK, IPS/IDS, SIEM
 - Other: Vulnerability Assessment, Pentesting, Compliance & Auditing (GDPR, SOX, GLBA, PCI/DSS), Serverless and Microservice Development, red teaming and API development
