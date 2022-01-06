@@ -29,7 +29,7 @@ Security Analytics Professional, Network Vulnerability Professional)
 - EC-Council (ECES) Certified Encryption Specialist
 - Scrum Alliance SMC (certified scrum master)
 - ITIL v4 Foundations (IT Information Library)
-- HackerRank Python, SQL, C# certifications
+- HackerRank Python, SQL, C# & Golang certifications
 
 ---
 
