@@ -1,5 +1,3 @@
-# Rolla's Technology Portfolio
-
 ## Current Focus: Learning all industry best-practice standards, preparing for CISSP and pre-Masters Degree learning
 
 ## Links
