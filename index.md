@@ -1,4 +1,4 @@
-## Current Focus: Learning all industry best-practice standards, preparing for CISSP and pre-Masters Degree learning
+## Experienced Software Security Engineer
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/rollacampbellcluster/) LinkedIn Profile Page
