@@ -13,6 +13,10 @@
 Bachelors of Science, Cybersecurity & Information Assurance - Western Governors University (graduated 2021)
 
 ---
+<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/net%2B.png?raw=true" align="right">
+<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/proj%2B.png?raw=true" align="right">
+<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/sec%2B.png?raw=true" align="right">
+<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/pen%2B.png?raw=true" align="right">
 <img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/cysa%2B.png?raw=true" align="right">
 
 ## Certifications 
