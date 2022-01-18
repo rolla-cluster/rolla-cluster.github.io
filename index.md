@@ -28,16 +28,12 @@ Bachelors of Science, Cybersecurity & Information Assurance - Western Governors 
 - CompTIA Pentest+
 - CompTIA CySA+ (Cybersecurity Analyst)
 - Comptia Stackables (IT Operations Specialist, Secure Infrastructure Specialist, Network Security Professional, 
-Security Analytics Professional, Network Vulnerability Professional)
-<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/isc.png?raw=true" align="right">
-- (ISC)2 SSCP (Systems Security Certified Practitioner)
-<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/eces.jpeg?raw=true" align="right">
-- EC-Council (ECES) Certified Encryption Specialist
-- Scrum Alliance SMC (certified scrum master)
-<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/scrum.jpeg?raw=true" align="right">
+Security Analytics Professional, Network Vulnerability Professional) 
+- (ISC)2 SSCP (Systems Security Certified Practitioner) <img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/isc.png?raw=true" align="right" width="100"> <img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/hackerrank.jpeg?raw=true" align="right" width="100"> <img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/scrum.jpeg?raw=true" align="right" width="100"> <img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/eces.jpeg?raw=true" align="right" width="100">
+- EC-Council (ECES) Certified Encryption Specialist 
+- Scrum Alliance SMC (certified scrum master) 
 - ITIL v4 Foundations (IT Information Library)
 - HackerRank Python, SQL, C# & Golang certifications
-<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/hackerrank.jpeg?raw=true" align="right">
 
 
 ---
