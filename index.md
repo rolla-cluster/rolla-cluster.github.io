@@ -13,6 +13,7 @@
 Bachelors of Science, Cybersecurity & Information Assurance - Western Governors University (graduated 2021)
 
 ---
+<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/cysa%2B.png?raw=true" align="right">
 
 ## Certifications 
 - CompTIA A+
