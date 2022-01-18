@@ -13,11 +13,12 @@
 Bachelors of Science, Cybersecurity & Information Assurance - Western Governors University (graduated 2021)
 
 ---
-<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/net%2B.png?raw=true" align="right">
-<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/proj%2B.png?raw=true" align="right">
-<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/sec%2B.png?raw=true" align="right">
-<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/pen%2B.png?raw=true" align="right">
 <img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/cysa%2B.png?raw=true" align="right">
+<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/pen%2B.png?raw=true" align="right">
+<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/sec%2B.png?raw=true" align="right">
+<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/proj%2B.png?raw=true" align="right">
+<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/net%2B.png?raw=true" align="right">
+
 
 ## Certifications 
 - CompTIA A+
@@ -28,11 +29,16 @@ Bachelors of Science, Cybersecurity & Information Assurance - Western Governors 
 - CompTIA CySA+ (Cybersecurity Analyst)
 - Comptia Stackables (IT Operations Specialist, Secure Infrastructure Specialist, Network Security Professional, 
 Security Analytics Professional, Network Vulnerability Professional)
+<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/isc.png?raw=true" align="right">
 - (ISC)2 SSCP (Systems Security Certified Practitioner)
+<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/eces.jpeg?raw=true" align="right">
 - EC-Council (ECES) Certified Encryption Specialist
 - Scrum Alliance SMC (certified scrum master)
+<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/scrum.jpeg?raw=true" align="right">
 - ITIL v4 Foundations (IT Information Library)
 - HackerRank Python, SQL, C# & Golang certifications
+<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/hackerrank.jpeg?raw=true" align="right">
+
 
 ---
 
