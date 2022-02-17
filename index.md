@@ -31,6 +31,7 @@ Bachelors of Science, Cybersecurity & Information Assurance - Western Governors 
 Security Analytics Professional, Network Vulnerability Professional) 
 - (ISC)2 SSCP (Systems Security Certified Practitioner) <img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/isc.png?raw=true" align="right" width="100"> <img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/hackerrank.jpeg?raw=true" align="right" width="100"> <img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/scrum.jpeg?raw=true" align="right" width="100"> <img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/eces.jpeg?raw=true" align="right" width="100">
 - EC-Council (ECES) Certified Encryption Specialist 
+- NIMS ICS 100, 200 (FEMA)
 - Scrum Alliance SMC (certified scrum master) 
 - ITIL v4 Foundations (IT Information Library)
 - HackerRank Python, SQL, C# & Golang certifications
