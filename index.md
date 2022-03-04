@@ -41,6 +41,8 @@ Security Analytics Professional, Network Vulnerability Professional)
 
 ## Experience
 - Associate Software Engineer, Business Application (iZotope)
+- Cybersecurity Engineer (Rule4)
+
 - HackTheBox Labs - GlobalRanking TOP <600
 - TryHackMe - Top 10%
 - HackTheBox x Auth0 CTF - top 10% finalist
@@ -50,8 +52,8 @@ Security Analytics Professional, Network Vulnerability Professional)
 ---
 
 ## Skills
-- Systems: macOS, Windows (7- 10, Server), Linux (RHEL, Ubuntu, Arch, Kali, Parrot, CentOS)
+- Systems: macOS, Windows (7- 10, Server), Linux (RHEL, Ubuntu, Arch, Kali, Parrot, CentOS), CISCO iOS
 - Languages:  Python, C, Shell (bash, ksh, powershell, CMD), Golang, Javascript, C# (and .NET), SQL
 - Software:  Atlassian, Salesforce, Zendesk, Centercode, Microsoft Office, Jenkins, Artifactory, AWS, Git, Cryptography (PKI), RDBMS, Kubernetes, Docker
-- Security Tools: MetaSploit, CloudWatch, Splunk, pfsense, EnCase, FTK, IPS/IDS, SIEM
-- Other: Vulnerability Assessment, Pentesting, Compliance & Auditing (GDPR, SOX, GLBA, PCI/DSS), Serverless and Microservice Development, red teaming and API development
+- Security Tools: MetaSploit, nmap, Nessus Pro, linPEAS, enCase, Splunk, pfsense, EnCase, FTK, IPS/IDS
+- Other: Penetration Testing, Vulnerability Assessment, Pentesting, Compliance & Auditing (GDPR, SOX, GLBA, PCI/DSS), Serverless and Microservice Development, and API Development
