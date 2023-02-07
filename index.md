@@ -14,8 +14,6 @@ Bachelor's of Science, Cybersecurity & Information Assurance - Western Governors
 Master's of Science, Cybersecurity & Information Assurance - Western Governors University (graduated 2023)
 
 ---
-<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/certs.png?raw=true" align="right">
-
 
 ## Certifications 
 - Kubernetes Certified Application Developer
@@ -36,6 +34,7 @@ Security Analytics Professional, Network Vulnerability Professional)
 - ITIL v4 Foundations (IT Information Library)
 - HackerRank Python, SQL, C# & Golang certifications
 
+<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/certs.png?raw=true" align="left">
 
 ---
 
