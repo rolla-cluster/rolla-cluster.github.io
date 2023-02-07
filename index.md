@@ -10,17 +10,17 @@
 - [HackerOne](https://hackerone.com/tangled_) HackerOne Profile
 
 ## Education
-Bachelors of Science, Cybersecurity & Information Assurance - Western Governors University (graduated 2021)
+Bachelor's of Science, Cybersecurity & Information Assurance - Western Governors University (graduated 2021)
+Master's of Science, Cybersecurity & Information Assurance - Western Governors University (graduated 2023)
 
 ---
-<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/cysa%2B.png?raw=true" align="right">
-<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/pen%2B.png?raw=true" align="right">
-<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/sec%2B.png?raw=true" align="right">
-<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/proj%2B.png?raw=true" align="right">
-<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/net%2B.png?raw=true" align="right">
+<img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/certs.png?raw=true" align="right">
 
 
 ## Certifications 
+- Kubernetes Certified Application Developer
+- AWS Certified Cloud Practitioner
+- AWS Certified Application Developer
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Project+
@@ -29,10 +29,10 @@ Bachelors of Science, Cybersecurity & Information Assurance - Western Governors 
 - CompTIA CySA+ (Cybersecurity Analyst)
 - Comptia Stackables (IT Operations Specialist, Secure Infrastructure Specialist, Network Security Professional, 
 Security Analytics Professional, Network Vulnerability Professional) 
-- (ISC)2 SSCP (Systems Security Certified Practitioner) <img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/isc.png?raw=true" align="right" width="100"> <img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/hackerrank.jpeg?raw=true" align="right" width="100"> <img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/scrum.jpeg?raw=true" align="right" width="100"> <img src="https://raw.githubusercontent.com/rolla-cluster/rolla-cluster.github.io/main/img/eces.jpeg?raw=true" align="right" width="100">
+- (ISC)2 SSCP (Systems Security Certified Practitioner)
 - EC-Council (ECES) Certified Encryption Specialist 
 - NIMS ICS 100, 200 (FEMA)
-- Scrum Alliance SMC (certified scrum master) 
+- Scrum Alliance SMC (Certified Scrum Master) 
 - ITIL v4 Foundations (IT Information Library)
 - HackerRank Python, SQL, C# & Golang certifications
 
@@ -42,6 +42,7 @@ Security Analytics Professional, Network Vulnerability Professional)
 ## Experience
 - Associate Software Engineer, Business Application (iZotope)
 - Cybersecurity Engineer (Rule4)
+- Software Engineer - Cloud & Security (Amergint Tehcnologies)
 
 - HackTheBox Labs - GlobalRanking TOP <600
 - TryHackMe - Top 10%
@@ -52,7 +53,7 @@ Security Analytics Professional, Network Vulnerability Professional)
 ---
 
 ## Skills
-- Systems: macOS, Windows (7- 10, Server), Linux (RHEL, Ubuntu, Arch, Kali, Parrot, CentOS), CISCO iOS
+- Systems: macOS, Windows (7- 10, Server), Linux (RHEL 7-9, Ubuntu, Arch, Kali, Parrot, CentOS), CISCO iOS
 - Languages:  Python, C, Shell (bash, ksh, powershell, CMD), Golang, Javascript, C# (and .NET), SQL
 - Software:  Atlassian, Salesforce, Zendesk, Centercode, Microsoft Office, Jenkins, Artifactory, AWS, Git, Cryptography (PKI), RDBMS, Kubernetes, Docker
 - Security Tools: MetaSploit, nmap, Nessus Pro, linPEAS, enCase, Splunk, pfsense, EnCase, FTK, IPS/IDS
